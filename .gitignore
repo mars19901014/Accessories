@@ -1,1 +1,7 @@
-/log
+log/
+
+*.log
+
+?.img
+
+readme.txt
